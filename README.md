@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop.png](./screenshots)
+[desktop.png](./screenshots)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [frontendmentor.io/solutions/expenses-chart-component-using-flexbox-UinTEEnyXh]
+- Live Site URL: [https://awsmpuff.github.io/expenses-chart-component-main/]
 
 ### Built with
 
